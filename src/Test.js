@@ -11,6 +11,10 @@ const Ptest = styled.p`
   font-weight: bold;
 `;
 
+const Ptests = styled.p`
+  font-weight: bold;
+`;
+
 function Test() {
   return (
    
